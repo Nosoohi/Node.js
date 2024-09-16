@@ -1,0 +1,16 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "A simple node.js web app.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel SEP 9 2024",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
